@@ -8,9 +8,13 @@ It is perfect for students, beginners in Django, and anyone learning Machine Lea
 # ⭐ Why This Project is Great for Learning
 
 ✔ Learn how to train an ML model
+
 ✔ Understand how to load and use the model inside Django
+
 ✔ Build a clean Bootstrap website
+
 ✔ Learn how to handle forms, POST requests & show predictions
+
 ✔ Beginner-friendly structure and very easy to extend
 
 # 🌟 Features
@@ -55,14 +59,21 @@ Rainfall
 
 # 📁 Project Structure (Very Simple)
 crop_recommendation/
+
 │── crop_app/
+
 │   ├── ml_model.pkl        # Trained model
+
 │   ├── ml_code.py          # Prediction function
+
 │   ├── views.py            # Django logic
+
 │   ├── templates/
 │   │    └── index.html     # Frontend page
+
 │   └── static/
 │        └── crop_app/      # Background image
+
 │── manage.py
 
 # 🛠 How to Run This Project
